@@ -105,5 +105,5 @@ Sigue las opciones del menú para:
 
 ## Autor || Contacto
 
-Autor: Christian Martinez
-Correo: cdmartinez1121@gmail.com
+Autor: Christian Martinez.
+Correo: cdmartinez1121@gmail.com.
