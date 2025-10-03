@@ -36,7 +36,7 @@ Proyecto orientado a prácticas docentes/personales para gestionar operaciones t
 ---
 
 ## Estructura del proyecto
-
+```text
 sistema-gestion-biblioteca/
 ├── main.py # Punto de entrada
 ├── sistema_core.py # Lógica del sistema (operaciones)
@@ -45,6 +45,7 @@ sistema-gestion-biblioteca/
 ├── estructuras_datos.py # Implementaciones de listas/colas/pilas
 ├── datos_prueba.py # Datos iniciales para pruebas
 └── README.md
+```
 
 - `main.py` → llama al módulo de interfaz u orquesta el flujo principal.  
 - `sistema_core.py` → contiene las operaciones (agregar, eliminar, prestar, etc.).  
