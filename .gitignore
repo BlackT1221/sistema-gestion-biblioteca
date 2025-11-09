@@ -1,1 +1,29 @@
-/___pycache__/
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos generados automáticamente
+*.pdf
+*.docx
+*.png
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de pruebas
+.coverage
+htmlcov/
+.cache/
+pytest_cache/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
